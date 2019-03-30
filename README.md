@@ -1,0 +1,2 @@
+# publicscript
+script path
